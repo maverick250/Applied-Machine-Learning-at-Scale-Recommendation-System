@@ -18,6 +18,7 @@ This repository contains the code and documentation for a collaborative filterin
 ## Repository Structure
 
 maverick250/
+
 ├── README.md  
 ├── Applied_ML_at_Scale_Recommender_System_Technical_Report.pdf  
 ├── code/  
