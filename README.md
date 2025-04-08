@@ -42,8 +42,9 @@ This repository contains the code and documentation for a collaborative filterin
     cd code
     ```
 
-3. **Run the notebooks:** 
-  Launch **Jupyter Notebook** or **JupyterLab** and open any of the provided `.ipynb` files to explore or execute the code.
+### Run the notebooks:
+
+Launch **Jupyter Notebook** or **JupyterLab** and open any of the provided `.ipynb` files to explore or execute the code.
 
 ## Documentation and Report
 
