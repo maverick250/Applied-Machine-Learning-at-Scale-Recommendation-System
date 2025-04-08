@@ -32,11 +32,15 @@ maverick250/
 ## Getting Started
 
 1. **Clone the repository:**
-   git clone https://github.com/maverick250/Applied-Machine-Learning-at-Scale-Recommendation-System.git
-   cd maverick250
+   ```bash
+    git clone https://github.com/maverick250/Applied-Machine-Learning-at-Scale-Recommendation-System.git
+    cd maverick250
+    ```
 
 ### Navigate to the code directory:
+  ```bash
   cd code
+  ```
 
 ### Run the notebooks:
 
