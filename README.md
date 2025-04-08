@@ -50,7 +50,7 @@ Launch **Jupyter Notebook** or **JupyterLab** and open any of the provided `.ipy
 
 For a comprehensive understanding of the project, please refer to the technical report that details the methodology, experiments, evaluation metrics, and visualizations.
 
-👉 [View Technical Report (PDF)](https://[your-link-to-report.com/your-report.pdf](https://github.com/maverick250/Applied-Machine-Learning-at-Scale-Recommendation-System/blob/main/Applied_ML_at_Scale_Recommender_System_Technical_Report.pdf))
+👉 [View Technical Report (PDF)](https://github.com/maverick250/Applied-Machine-Learning-at-Scale-Recommendation-System/blob/main/Applied_ML_at_Scale_Recommender_System_Technical_Report.pdf)
 
 ---
 
