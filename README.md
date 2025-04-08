@@ -25,6 +25,7 @@ This repository contains the code and documentation for a collaborative filterin
   │   ├── practical_1.ipynb  
   │   └── practical_2.ipynb  
   └── checkpoints_2D_full_als_model-<timestamp>.zip
+  ```
 
 *Note: All code has been moved to the `code` folder for better organization, while the technical report remains at the root for easy access.*
 
