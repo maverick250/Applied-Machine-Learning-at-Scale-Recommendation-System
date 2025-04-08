@@ -38,9 +38,9 @@ maverick250/
     ```
 
 ### Navigate to the code directory:
-    ```bash
-    cd code
-    ```
+  ```bash
+  cd code
+  ```
 
 ### Run the notebooks:
 
