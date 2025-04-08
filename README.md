@@ -32,7 +32,7 @@ maverick250/
 ## Getting Started
 
 1. **Clone the repository:**
-   git clone https://github.com/your_username/maverick250.git
+   git clone [https://github.com/your_username/maverick250.git](https://github.com/maverick250/Applied-Machine-Learning-at-Scale-Recommendation-System.git)
    cd maverick250
 
 ### Navigate to the code directory:
