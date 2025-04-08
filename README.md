@@ -14,18 +14,17 @@ This repository contains the code and documentation for a collaborative filterin
 - **Future Enhancements:** Discussion on algorithmic improvements validated through a mock A/B test.
 
 ## Repository Structure
-
-maverick250/
-```bash
-├── README.md  
-├── Applied_ML_at_Scale_Recommender_System_Technical_Report.pdf  
-├── code/  
-│   ├── biases_only_model_training.ipynb  
-│   ├── full_als_model_training.ipynb  
-│   ├── enhanced_practical_3.ipynb  
-│   ├── practical_1.ipynb  
-│   └── practical_2.ipynb  
-└── checkpoints_2D_full_als_model-<timestamp>.zip
+  ```bash
+  maverick250/
+  ├── README.md  
+  ├── Applied_ML_at_Scale_Recommender_System_Technical_Report.pdf  
+  ├── code/  
+  │   ├── biases_only_model_training.ipynb  
+  │   ├── full_als_model_training.ipynb  
+  │   ├── enhanced_practical_3.ipynb  
+  │   ├── practical_1.ipynb  
+  │   └── practical_2.ipynb  
+  └── checkpoints_2D_full_als_model-<timestamp>.zip
 
 *Note: All code has been moved to the `code` folder for better organization, while the technical report remains at the root for easy access.*
 
